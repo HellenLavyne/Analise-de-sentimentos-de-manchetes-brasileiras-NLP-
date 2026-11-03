@@ -1,9 +1,9 @@
 #################################################################################
 #        Análise e Classificação de Sentimentos em Manchetes Jornalísticas      #
 # Autores:                                                                      #
-# Suiany Pinto Gomes - 582147                                                   #
-# Dayane Magalhães Ferreira - 587972                                            #
-# Hellen Lavyne Sousa Vasconselos - 580524                                      #
+# Suiany Pinto Gomes                                                            #
+# Dayane Magalhães Ferreira                                                     #
+# Hellen Lavyne Sousa Vasconselos                                               #
 #################################################################################
 
 import pandas as pd
